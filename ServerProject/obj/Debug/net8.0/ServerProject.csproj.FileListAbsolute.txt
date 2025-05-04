@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\ServerProject\ServerProject\bin\Debug\net8.0\ServerProject.exe
+C:\Users\yusuf\source\repos\ServerProject\ServerProject\bin\Debug\net8.0\ServerProject.deps.json
+C:\Users\yusuf\source\repos\ServerProject\ServerProject\bin\Debug\net8.0\ServerProject.runtimeconfig.json
+C:\Users\yusuf\source\repos\ServerProject\ServerProject\bin\Debug\net8.0\ServerProject.dll
+C:\Users\yusuf\source\repos\ServerProject\ServerProject\bin\Debug\net8.0\ServerProject.pdb
+C:\Users\yusuf\source\repos\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\source\repos\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.AssemblyInfoInputs.cache
+C:\Users\yusuf\source\repos\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.AssemblyInfo.cs
+C:\Users\yusuf\source\repos\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.dll
+C:\Users\yusuf\source\repos\ServerProject\ServerProject\obj\Debug\net8.0\refint\ServerProject.dll
+C:\Users\yusuf\source\repos\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.pdb
+C:\Users\yusuf\source\repos\ServerProject\ServerProject\obj\Debug\net8.0\ServerProject.genruntimeconfig.cache
+C:\Users\yusuf\source\repos\ServerProject\ServerProject\obj\Debug\net8.0\ref\ServerProject.dll
